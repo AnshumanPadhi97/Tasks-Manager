@@ -60,7 +60,7 @@ A simple task management application built with Flask (backend) and React (front
 1. Navigate to the frontend directory:
 
    ```bash
-    cd Tasks-Manager/frontend
+    cd Tasks-Manager/task-frontend
    ```
 
 2. Install the required JavaScript packages:
