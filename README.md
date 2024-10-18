@@ -105,7 +105,7 @@ The API is documented using Swagger. Access it at [http://localhost:5000/apidocs
 - Axios
 - Bootstrap
 
-## Libraries Used
+## Library Details
 
 ### Backend
 
