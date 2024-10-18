@@ -137,7 +137,7 @@ SQL Server is a relational database management system developed by Microsoft. It
 
 Flasgger is an extension for Flask that simplifies the process of adding Swagger UI documentation to your API. It allows you to document your API endpoints easily and provides an interactive interface for testing them.
 
-- **Website**: [Flasgger](https://flasgger.readthedocs.io/en/latest/)
+- **Website**: [Flasgger](https://github.com/flasgger/flasgger)
 
 ### Frontend
 
