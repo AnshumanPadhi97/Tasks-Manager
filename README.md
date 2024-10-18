@@ -25,6 +25,7 @@ A simple task management application built with Flask (backend) and React (front
 ### Database Setup
 
 1. Run SQL Script
+   
    ```bash
     Tasks.sql
    ```
@@ -35,7 +36,7 @@ A simple task management application built with Flask (backend) and React (front
 
    ```bash
    git clone https://github.com/AnshumanPadhi97/Tasks-Manager.git
-   cd Tasks-Manager/backend
+   cd Tasks-Manager/task-backend
    ```
 
 2. Install the required Python packages:
