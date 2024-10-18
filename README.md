@@ -85,9 +85,9 @@ The API is documented using Swagger. Access it at [http://localhost:5000/apidocs
 
 - **GET /api/v1/tasks/**: Retrieve a list of tasks.
 - **POST /api/v1/tasks/**: Create a new task.
-- **GET /api/v1/tasks/<id>**: Retrieve a task by ID.
-- **PUT /api/v1/tasks/<id>**: Update a task by ID.
-- **DELETE /api/v1/tasks/<id>**: Delete a task by ID.
+- **GET /api/v1/tasks/id**: Retrieve a task by ID.
+- **PUT /api/v1/tasks/id**: Update a task by ID.
+- **DELETE /api/v1/tasks/id**: Delete a task by ID.
 
 ## Libraries Used
 
