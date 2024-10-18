@@ -35,7 +35,7 @@ A simple task management application built with Flask (backend) and React (front
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AnshumanPadhi97/tasks-manager.git
+   git clone https://github.com/AnshumanPadhi97/Tasks-Manager.git
    cd tasks-manager/backend
    ```
 
